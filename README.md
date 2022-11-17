@@ -1,8 +1,3 @@
-Inside this zip, there are src code folder, screenshots folder, Docker folder, and an executable summary PDF.
-
-Before running, it is recommended to see the testing screenshots to have an overview.
-Testing screenshots are done for a previous beta-version, and it is only for overview and reference.
-
 For inputting commands, please strictly follow this README.
 
 There are three ways to run/test the code:
@@ -25,4 +20,4 @@ There are three ways to run/test the code:
 - To restart a server, run `java server.ServerController 8885 localhost 8888 localhost localhost`
 - To run a client, run `java client.ClientController 8885 localhost`
 
-3. In docker folder, use Dockerfile and shell files.
+3. In docker folder, use Dockerfile and shell files. (This is TODO, saved in another device)
